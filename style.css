@@ -21,9 +21,17 @@
 
 
 .container-fluid{
-    background-color: rgb(173, 169, 164);
+    background-color: rgba(248, 245, 242, 0.301);
+   
 }
 .container-fluid .col-md-4 h2{
     font-family:Arial, Helvetica, sans-serif;
 }
-   
+.col-md-4{
+    display: flex;
+    flex-direction: row;
+}
+.carousel-inner{
+  
+    height: 80px;
+}
