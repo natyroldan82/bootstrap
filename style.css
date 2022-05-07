@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card-title 
+{
+    text-align: center;
+    margin: 2rem;
+    font-family: bold;
+    font-size: 30px;
+}   
+
+.card{
+    margin: 2rem;
+}
+.navbar-nav{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+/*
+.contenido-footer{
+    background-image: url(../img/alex-lvrs-Md6_qA-BMis-unsplash.jpg);
+    width: auto;
+    height: 200px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    
+    
+}
+
+.contenido-footer H2 p {
+    font-size: 2.8rem;
+    padding-top: 2 rem;
+    margin-top: 2rem;
+    
+}
+    
+.contenido-footer  p {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 10px;
+}
+.contenido-footer div img{
+    width: 50px;
+    padding: 2rem;
+}
+.contenido-footer .ico-mail .ico-map .ico-telefono img{
+    width: 50px;
+    
+}*/
+
+.container-fluid{
+    background-color: rgb(173, 169, 164);
+}
+.container-fluid .col-md-4 h2{
+    font-family:Arial, Helvetica, sans-serif;
+}
+   
